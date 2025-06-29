@@ -1,2 +1,22 @@
 # vscode
 .vscode
+
+
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Build files
+build/
+dist/
+
+# System/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
